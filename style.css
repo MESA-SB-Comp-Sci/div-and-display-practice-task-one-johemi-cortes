@@ -11,3 +11,23 @@
     border: 5px solid black;
 }
 
+.c-1-B-1{
+    display:block;
+    width: 100vw%;
+    height:33%;
+    background-color:green;
+}
+
+.c-1-B-2{
+    display:block;
+    width:100vw;
+    height:33%;
+    background-color:orange;
+}
+
+.c-1-B-2{
+Display:block;
+width:100ww;
+height:33%;
+background-color:pink;
+}
